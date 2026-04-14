@@ -104,5 +104,11 @@ php artisan tinker
 The admin can view all orders, filter by status, and update order statuses (pending → confirmed → shipped). Customers get an email on each status change.
 
 ---
+ 
+## notes
+
+- built as a client project — company name intentionally omitted
+ 
+---
 
 *made with Laravel, jQuery, and a genuine appreciation for italian floor tiles.*
